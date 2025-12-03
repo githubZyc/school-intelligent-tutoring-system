@@ -1,0 +1,14 @@
+## ide
+**/.idea
+*.iml
+rebel.xml
+
+## backend
+**/target
+*.log
+logs/
+
+## front
+**/*.lock
+
+**/*.DS_Store
